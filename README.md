@@ -1,2 +1,3 @@
-# SMU_OS_class
-Repo for SMU OS class
+# SMU OS class
+A repository for SMU OS class
+
